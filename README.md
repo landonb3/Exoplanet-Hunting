@@ -1,1 +1,2 @@
 # Exoplanet-Hunting
+Using data collected from NASA's Kepler Space Telescope from Campaign 3, I built Logistic Regression, Feed-Forward Network, and Convolutional Neural Network models to hunt for planets in other solar systems. This repo contains the source code for my [Medium article](https://medium.com/@landonb3/exoplanet-hunting-through-convolutional-neural-networks-2f71db4b197d). Data used can be found [here](https://archive.stsci.edu/k2/).
